@@ -1,0 +1,49 @@
+body {
+font-size: 18px;
+font-family: "Roboto";
+margin: 0;
+}
+img {
+	max-width: 100%;
+}
+section {
+	background-color: #99FF66;
+	margin-top: 0px;
+}
+.baton {
+	height: 200px;
+	width: 400px;
+	background-color: #00FF00;
+	box-shadow: 10px 20px 35px 5px rgba(18, 61, 145, 0.83);
+	margin-left: 200px;
+	border-radius: 50px;
+	display: inline-block;
+	text-decoration: none;
+	color: #072b6f;
+	font-weight: 700;
+	font-size: 18px;
+	padding: 17px 55px ;
+	transition: 0.2s;
+}
+.baton:hover {
+	box-shadow: none;
+}
+header {
+	background-color: #CCFF99;
+	margin-top: 0;
+}
+.name {
+	padding-left: 40px;
+}
+.text {
+	padding-left: 40px;
+}
+.name:hover {
+	color: #000066;
+}
+.ssilka:hover {
+	color: #000066;
+}
+.ssilka {
+	padding-left: 40px;
+}
